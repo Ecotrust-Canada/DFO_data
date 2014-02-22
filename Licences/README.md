@@ -1,7 +1,6 @@
-DFO_data
+Licence-Vessel Records
 ========
 
-<<<<<<< HEAD
 Data Source:<br>
 
 This dataset was assembled from multiple pulls of data from DFO's online registry of licences and vessels.<br>
@@ -28,6 +27,4 @@ VRN - vessel registration number (optional, only available for vessel-based lice
 OAL - overall vessel length, in meters - actual length of vessel fishing this licence, should be < MVL (optional)<br>
 <br>
 Licence letter codes: http://www.pac.dfo-mpo.gc.ca/fm-gp/licence-permis/lpc-eng.html
-=======
-improving the accessibility and usability of DFO data
->>>>>>> origin/master
+
