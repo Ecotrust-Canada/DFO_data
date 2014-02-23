@@ -3,8 +3,7 @@ Harvest Records
 
 Data Source:<br>
 
-These datasets come from DFO's summary commercial statistics page. DFO presents the data by year; these files contain data by data type.<br>
-http://www.pac.dfo-mpo.gc.ca/stats/comm/summ-somm/index-eng.htm
+These datasets come from DFO's <a href="http://www.pac.dfo-mpo.gc.ca/stats/comm/summ-somm/index-eng.htm">summary commercial statistics page</a>, except as noted. DFO separates the data by year; these files separate data by type.
 <br>
 <br>
 
@@ -32,9 +31,9 @@ Files and Column headers:<br>
 <ul><b>MONTH</b> - month of harvest (not part of original dataset)</ul>
 </li>
 <br><br>
-<b>Salmon_weight_annual_1000tonnes.csv</b>
-Post-1950 data come from "<a href="http://www.pac.dfo-mpo.gc.ca/stats/comm/summ-somm/index-eng.htm">Landed Weight by Species and Gear, 1951-1995</a>"<br>
-Data to 1950 come from "<a href="http://www.statcan.gc.ca/pub/11-516-x/sectionn/N12_24-eng.csv">Statistics Canada Series N12-24: Quantities of fish landed, by region and major species, 1869 to 1975</a>"
+<b>Salmon_weight_annual_1000tonnes.csv</b><br>
+Post-1950 data come from <a href="http://www.pac.dfo-mpo.gc.ca/stats/comm/summ-somm/index-eng.htm">Landed Weight by Species and Gear, 1951-1995</a><br>
+Data to 1950 come from <a href="http://www.statcan.gc.ca/pub/11-516-x/sectionn/N12_24-eng.csv">Statistics Canada Series N12-24: Quantities of fish landed, by region and major species, 1869 to 1975</a>
 <li>
 <ul><b>YEAR</b> - year of harvest</ul>
 <ul><b>VALUE</b> - weight harvested, in thousands of metric tonnes</ul>
