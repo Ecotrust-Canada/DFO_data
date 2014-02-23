@@ -14,7 +14,7 @@ Files and Column headers:<br>
 <ul><b>SPECIES_GROUP</b> - category of species harvested (e.g. herring spawn on kelp is listed under herring)</ul>
 <ul><b>SPECIES</b> - species that was harvested</ul>
 <ul><b>GEAR</b> - type of gear used to harvest the fish</ul>
-<ul><b>MONTH</b> - month of harvest</ul>
+<ul><b>MONTH</b> - month and year of harvest, written as mmm-yy</ul>
 <ul><b>VALUE</b> - weight harvested, in kilograms</ul>
 <ul><b>YEAR</b> - year of harvest</ul>
 </li>
@@ -26,7 +26,7 @@ Files and Column headers:<br>
 <ul><b>SPECIES</b> - species harvested</ul>
 <ul><b>VALUE</b> - value of harvest, in dollars (unadjusted)</ul>
 <ul><b>WEEKSTART</b> - start date of week (not part of original dataset)</ul>
-<ul><b>DFOWEEKNUM</b> - DFO code for the week in question, taken from the WEEK column - first digit is month (2 digits if Oct-Dec), last digit is week in that month</ul>
+<ul><b>DFOWEEKNUM</b> - DFO code for the week in question, taken from the WEEK column - first digit is month (2 digits if Oct-Dec), last digit is week in that month (generally 1-4)</ul>
 <ul><b>YEAR</b> - year of harvest</ul>
 <ul><b>MONTH</b> - month of harvest (not part of original dataset)</ul>
 </li>
