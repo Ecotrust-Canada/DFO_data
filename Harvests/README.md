@@ -32,8 +32,8 @@ Files and Column headers:<br>
 </li>
 <br><br>
 <b>Salmon_weight_annual_1000tonnes.csv</b><br>
-<p>Post-1950 data come from <a href="http://www.pac.dfo-mpo.gc.ca/stats/comm/summ-somm/index-eng.htm">Landed Weight by Species and Gear, 1951-1995</a><br>
-Pre-1950 data come from <a href="http://www.statcan.gc.ca/pub/11-516-x/sectionn/N12_24-eng.csv">Statistics Canada Series N12-24: Quantities of fish landed, by region and major species, 1869 to 1975</a></p>
+<p>Post-1950 data from <a href="http://www.pac.dfo-mpo.gc.ca/stats/comm/summ-somm/index-eng.htm">Landed Weight by Species and Gear, 1951-1995</a><br>
+Pre-1950 data from <a href="http://www.statcan.gc.ca/pub/11-516-x/sectionn/N12_24-eng.csv">Statistics Canada Series N12-24: Quantities of fish landed, by region and major species, 1869 to 1975</a></p>
 <li>
 <ul><b>YEAR</b> - year of harvest</ul>
 <ul><b>VALUE</b> - weight harvested, in thousands of metric tonnes</ul>
