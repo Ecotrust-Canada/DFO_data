@@ -11,6 +11,6 @@ Datasets currently apply to commercial BC fisheries ONLY
 <ul><b>Digitize Me</b> contains files that need to be digitized - it's your chance to help out!</ul>
 </li>
 
-All data are (or have been) publicly available <i>somewhere</i> on DFO's website. As a result, please feel free to use the data with attribution to Fisheries and Oceans Canada.
+All data are (or have been) publicly available <i>somewhere</i> on DFO's website. As a result, please feel free to use the data with attribution to Fisheries and Oceans Canada (and perhaps a shout-out to Ecotrust Canada if you're feeling generous).
 
 File-specific metadata is provided in each subfolder.
