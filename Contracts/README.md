@@ -3,7 +3,7 @@ Contract Records
 
 Data Source:<br>
 
-This dataset comes from DFO's <a href="http://www.dfo-mpo.gc.ca/pd-cp/index-eng.asp">Disclosure of Contracts Over $10,000</a>. Data have not been changed - this is merely a more computer-friendly format.
+This dataset comes from DFO's <a href="http://www.dfo-mpo.gc.ca/pd-cp/index-eng.asp">Disclosure of Contracts Over $10,000</a>. The dataset includes both the <a href="http://www.dfo-mpo.gc.ca/pd-cp/reports-eng.asp">original data listings</a> and <a href="http://www.dfo-mpo.gc.ca/pd-cp/Amendments/amend_reports-eng.asp">amendments</a>.
 <br>
 <br>
 
@@ -11,8 +11,8 @@ Column headers:<br>
 
 <b>DFO_contracts.csv</b>
 <li>
-<ul><b>year</b> - fiscal year (2014 indicates the 2013-2014 year; fiscal year starts/ends on April 1)</ul>
-<ul><b>quarter</b> - fiscal quarter for the indicated year</ul>
+<ul><b>year</b> - fiscal year (2014 indicates the 2013-2014 year; fiscal year starts/ends on April 1; column added)</ul>
+<ul><b>quarter</b> - fiscal quarter for the indicated year (column added)</ul>
 <ul><b>vendor</b> - contract awardee</ul>
 <ul><b>reference</b> - internal ID number</ul>
 <ul><b>date</b> - date of contract approval</ul>
