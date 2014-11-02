@@ -11,7 +11,7 @@ Column headers:<br>
 
 <b>DFO_contracts.csv</b>
 <li>
-<ul><b>year</b> - fiscal year (2013 indicates the 2013-2014 year; the year starts/ends on April 1)</ul>
+<ul><b>year</b> - fiscal year (2014 indicates the 2013-2014 year; fiscal year starts/ends on April 1)</ul>
 <ul><b>quarter</b> - fiscal quarter for the indicated year</ul>
 <ul><b>vendor</b> - contract awardee</ul>
 <ul><b>reference</b> - internal ID number</ul>
